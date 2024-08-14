@@ -25,3 +25,5 @@ Nesta imagem podemos ver algumas imagens que o Git nos fornece, como o nome que 
         . . . --list -> lista de configurações
 
     code . ->  Abre o VsCode de acordo com a pasta que está.
+
+    # Leonardo
